@@ -14,6 +14,8 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'bootstrap', '~> 4.0.0.alpha5'
 gem 'devise'
+gem 'activeadmin', '~> 1.0.0.pre4'
+gem 'inherited_resources', github: 'activeadmin/inherited_resources'
 
 group :development, :test do
 
